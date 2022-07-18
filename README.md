@@ -1,4 +1,6 @@
 # Company_Database
+![image](https://user-images.githubusercontent.com/109471364/179444195-3f7244ad-3d76-40fb-951f-2c0532e69483.png)
+
 ## Background
 This project is to add stored functions, stored procedures and triggers to a database for a fictional company that sells knock-off antique items. It is not necessary to create these tables as they have been provided to you along with a small test dataset to work with. The incomplete text schema is as follows (there are 7 tables):
 
